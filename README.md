@@ -1,4 +1,4 @@
-# BlockBot
+# Blockbot
 
 A bot that allows various hacks in BLOCKADE 3D.
 
