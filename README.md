@@ -21,7 +21,7 @@ Clone the repo.
 Open the main cheat table:
 
 	```
-	src/main.CT
+	src/Blockbot.CT
 	```
 
 ## Authors
