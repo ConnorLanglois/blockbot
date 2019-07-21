@@ -20,9 +20,9 @@ Clone the repo.
 
 Open the main cheat table:
 
-	```
-	src/Blockbot.CT
-	```
+```
+src/Blockbot.CT
+```
 
 ## Authors
 
